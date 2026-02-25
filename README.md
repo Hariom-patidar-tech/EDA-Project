@@ -17,7 +17,7 @@ EDA is a crucial step before applying any Machine Learning model.
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 - Python  
 - Jupyter Notebook  
 - Pandas  
@@ -62,7 +62,8 @@ README.MD
 This EDA process helped in understanding the dataset thoroughly and preparing it for:
 - Feature engineering  
 - Machine Learning model building  
-- Data-driven decision making  
+- Data-driven decision making
+- To know about Data  
 
 ---
 

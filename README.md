@@ -3,7 +3,7 @@
 
 ##  Project Description
 This project focuses on performing **Exploratory Data Analysis (EDA)** using **Jupyter Notebook** to understand the dataset, identify data quality issues, and extract meaningful insights.  
-EDA is a crucial step before applying any Machine Learning model.
+EDA is a crucial step before applying any Machine Learning  model.
 
 ---
 

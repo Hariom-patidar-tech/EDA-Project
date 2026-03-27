@@ -21,7 +21,7 @@ EDA is a crucial step before applying any Machine Learning  model.
 - Python  
 - Jupyter Notebook  
 - Pandas  
-- NumPy  
+- NumPy   
 - Matplotlib  
 - Seaborn  
 

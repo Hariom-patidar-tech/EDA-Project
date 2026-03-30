@@ -8,7 +8,7 @@ EDA is a crucial step before applying any Machine Learning  model.
 ---
 
 ##  Objectives
-- Understand the structure and size of the dataset  
+- Understand the structure and size of the dataset   
 - Analyze data types and summary statistics  
 - Detect missing values and duplicates  
 - Identify outliers using statistical methods  
